@@ -11,7 +11,7 @@ function obtenerNombre(){
 
     //verificar si el area texto vacia
     if(textareaValue === ""){
-        alert("Por favor escribe una losya de nombres en el area para texto");
+        alert("Por favor escribe una lista de nombres en el area para texto");
         return;
     }
     modal.style.display = "block";
