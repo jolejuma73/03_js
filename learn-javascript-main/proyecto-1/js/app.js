@@ -8,6 +8,9 @@ const spinner = document.querySelector(".spinner");
 //Función que se ejecuta al presionar botón
 function obtenerNombre(){
     const textareaValue = listadoNombres.value;
+
+    //verificar si el area texto vacia
+    if(textareaValue === "")
     modal.style.display = "block";
     setTimeout(()=>{
         const nombres = textareaValue.split("\n");
