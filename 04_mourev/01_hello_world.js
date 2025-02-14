@@ -119,3 +119,6 @@ const MyEnum = {
     KOTLIN:  "kotlin" ,
     JAVASCRIPT:  "javaScript"
 }
+// Probamos que funciona correctamente
+console.log(MyEnum);
+console.log(MyEnum.JAVASCRIPT);
