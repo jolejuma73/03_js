@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node 04_mourev/01_hello_world.js"
+    "start": "node 04_mourev/01_hello_world.js",
+    "qwe": "node 05_tuto-js/03_combinados.js"
+
   },
   "repository": {
     "type": "git",
