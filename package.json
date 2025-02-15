@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node 04_mourev/01_hello_world.js",
-    "qwe": "node 05_tuto-js/03_combinados.js"
+    "04": "node 04_mourev/01_hello_world.js",
+    "05": "node 05_david/01_basicos/index.js",
+    "06": "node 06_luisina/index.js"
+
 
   },
   "repository": {
