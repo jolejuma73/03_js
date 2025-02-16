@@ -4,8 +4,10 @@
   "main": "index.js",
   "scripts": {
     "04": "node 04_mourev/01_hello_world.js",
-    "05": "node 05_david/01_basicos/index.js",
-    "06": "node 06_luisina/index.js"
+    "05": "node 05_david/05_01_basicos.js",
+    "0601": "node 06_luisina/06_01_array.js",
+    "0602": "node 06_luisina/06_02_funciones.js"
+
 
 
   },
