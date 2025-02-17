@@ -145,27 +145,50 @@
 //"This is fine"
 //for (let day = 0; day < 4; day =day + 1) {console.log('streaming')}
 //4
-let personasBici = 10
-console.log(personasBici)//10 
+//let personasBici = 10
+//console.log(personasBici)//10 
+//
+//personasBici = personasBici + 1
+//console.log(personasBici)//11   
+//++ personasBici 
+//console.log(personasBici)  //12
+//personasBici ++
+//console.log(personasBici)//13
+//-- personasBici
+//console.log(personasBici)
+//personasBici --
+//console.log(personasBici)
+//personasBici++
+//for (let day = 0; day < 4; day++) {
+//    console.log('streaming');
+//}
+//for (let day = 0; day < 4; day += 1) {
+//    console.log('streaming');
+//}
+//streaming
+//streaming
+//streaming
+//streaming
+///*este comentario
+//es multilinea
+//y se cierra así */
+////mayusc+enter y se baja a la siguiente linea
+//let finanzas = 1000
+//function tocarPeluche(coste) {
+//    console.log (`tocar peluche cuesta ${coste}€`)
+//    finanzas = finanzas - coste
+//    return finanzas
+//}
+//tocarPeluche(20)
+//tocar peluche cuesta 20€
+//
+//980
 
-personasBici = personasBici + 1
-console.log(personasBici)//11   
-++ personasBici 
-console.log(personasBici)  //12
-personasBici ++
-console.log(personasBici)//13
--- personasBici
-console.log(personasBici)
-personasBici --
-console.log(personasBici)
-personasBici++
-for (let day = 0; day < 4; day++) {
-    console.log('streaming');
-}
-for (let day = 0; day < 4; day += 1) {
-    console.log('streaming');
-}
-streaming
-streaming
-streaming
-streaming
+//function tocarPeluche(coste = 100) {
+//    
+//    console.log (`tocar peluche cuesta ${coste}€`)
+//    finanzas = finanzas - coste
+//    return finanzas
+//}
+//tocarPeluche()
+//900
