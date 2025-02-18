@@ -24,3 +24,5 @@ Boolean  */
 let nombre = prompt("Dime tu nombre:")
 
 alert(" Tu nombre es " + nombre)
+
+//imprime Tu nombre es Jose
